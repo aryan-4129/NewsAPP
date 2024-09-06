@@ -1,0 +1,25 @@
+.newsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 52px;
+    margin: 50px 0px;
+
+}
+
+.button {
+    height: 40px;
+    width: 40px;
+    margiN: 10px 0;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.loaderButton {
+    margin: 20px 0;
+}
+
+.noNews {
+    color: rgb(81, 81, 232);
+}
